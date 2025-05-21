@@ -1,10 +1,16 @@
-How to Run the RAG-Based Chat Application
-1️⃣ Clone the Repository
+## 🚀 How to Run the RAG-Based Chat Application
+
+Just copy and paste the commands below into your terminal to get started:
+
+```bash
+# Clone the repository
 git clone https://github.com/PANKAJMOR/Build-with-AI.git
+
+# Move into the project directory
 cd Build-with-AI
 
-2️⃣ Install Dependencies
+# Install required Python packages
 pip install -r requirements.txt
 
-3️⃣ Run the App
+# Launch the Streamlit app
 streamlit run dynamic_app.py
